@@ -1,0 +1,12 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+pyautogui
+pyperclip
+python-dotenv
+requests
+numpy
+sounddevice
+resemblyzer
+Pillow
+psutil
